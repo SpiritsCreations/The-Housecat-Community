@@ -9,7 +9,7 @@ A Repository containing the Terms Of Service & Privacy Policy for The Housecat C
 
 ------
 ### 1. Limitation of Liability
-> - The Universe bot is provided "as is" without any warranties, express or implied. We make no representations or warranties of any kind, whether expressed or implied, regarding the functionality, reliability, or availability of the Universe bot.
+> - The Steve The Housecat bot is provided "as is" without any warranties, express or implied. We make no representations or warranties of any kind, whether expressed or implied, regarding the functionality, reliability, or availability of the Universe bot.
 > - We shall not be held liable for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with the use or inability to use the Universe bot, including but not limited to damages for loss of profits, data, or other intangible assets, even if we have been advised of the possibility of such damages.
 > - Users acknowledge that the use of the Universe bot is at their own risk and discretion.
 
@@ -30,7 +30,7 @@ A Repository containing the Terms Of Service & Privacy Policy for The Housecat C
 > - If there are reports or suspicions of copyright infringement related to the use of Steve The Housecat bot, we reserve the right to review and take appropriate action, including the removal of infringing content and legal response to complaints.
 
 ### 6. Abuse and Violations
-> - Misuse of the Universe bot, including but not limited to spamming, attacking or disrupting other Discord servers, distributing offensive or violating content, or using it contrary to Discord policies, is strictly prohibited.
+> - Misuse of the Steve The Housecat bot, including but not limited to spamming, attacking or disrupting other Discord servers, distributing offensive or violating content, or using it contrary to Discord policies, is strictly prohibited.
 > - If misuse or violations are discovered, we reserve the right to take appropriate action, including reporting such actions to Discord or relevant authorities.
 
 ### 7. Updates and Notifications
